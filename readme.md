@@ -5,14 +5,14 @@ Zdjęcie zapisywane jest na karcie SD, po czym wysyłany jest komunikat przez US
 
 ## Project photos, modules connected to STM32
 
-![Image of STM](/images/1.png)
-![Image of STM](/images/2.png)
-![Image of STM](/images/3.png)
-![Image of STM](/images/4.png)
-![Image of STM](/images/5.png)
-![Image of STM](/images/6.png)
-![Image of STM](/images/stm1.png)
-![Image of STM](/images/stm2.png)
+![Image of STM](/images/1.jpg)
+![Image of STM](/images/2.jpg)
+![Image of STM](/images/3.jpg)
+![Image of STM](/images/4.jpg)
+![Image of STM](/images/5.jgp)
+![Image of STM](/images/6.jpg)
+![Image of STM](/images/stm1.jpg)
+![Image of STM](/images/stm2.jpg)
 
 ## Usage
 
