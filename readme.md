@@ -11,8 +11,8 @@ Zdjęcie zapisywane jest na karcie SD, po czym wysyłany jest komunikat przez US
 ![Image of STM](/images/4.jpg)
 ![Image of STM](/images/5.jgp)
 ![Image of STM](/images/6.jpg)
-![Image of STM](/images/stm1.jpg)
-![Image of STM](/images/stm2.jpg)
+![Image of STM](/images/stm1.png)
+![Image of STM](/images/stm2.png)
 
 ## Usage
 
